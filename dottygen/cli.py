@@ -118,6 +118,13 @@ def generate(batch, output_folder, protocol, scribble_file, website, err_detect,
             return 1
 
     print ("\nefsms",efsms)
+    for role in all_roles:
+        print ("\nrole",role)
+        efsm = efsms[role]
+        for state in efsm._states.values():
+            print ("state:", state, "is_err_detc(state):", efsm.is_error_detection_state(state))
+            if efsm.is_error_detection_state(state):
+                print("state.error_detection", state.error_detection)
 
     # start_time = time.time()
     # merger = Merger(efsms, unop)
