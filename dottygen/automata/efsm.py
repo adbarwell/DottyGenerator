@@ -47,6 +47,8 @@ class EfsmBuilder:
             receive_state.add_error_detection(action)
             self._error_detection_states[state_id] = receive_state
 
+        self._receive_states[state_id] = receive_state
+
         self._roles.add(action.role)
         self._terminal_state_candidates.discard(state_id)
     

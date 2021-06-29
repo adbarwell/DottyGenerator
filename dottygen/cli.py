@@ -117,60 +117,51 @@ def generate(batch, output_folder, protocol, scribble_file, website, err_detect,
             logger.ERROR(error)
             return 1
 
-    print ("\nefsms",efsms)
+    start_time = time.time()
+    merger = Merger(efsms, unop)
+    if err_detect:
+        merger = ErrorDetectMerger(efsms, unop)
+    channel_map = merger.merge()
+    end_time = time.time()
+    counter.add_merge_time(end_time-start_time)
+
     for role in all_roles:
-        print ("\nrole",role)
+        counter.set_role(role)
         efsm = efsms[role]
-        for state in efsm._states.values():
-            print ("state:", state, "is_err_detc(state):", efsm.is_error_detection_state(state))
-            if efsm.is_error_detection_state(state):
-                print("state.error_detection", state.error_detection)
-
-    # start_time = time.time()
-    # merger = Merger(efsms, unop)
-    # if err_detect:
-    #     merger = ErrorDetectMerger(efsms, unop)
-    # channel_map = merger.merge()
-    # end_time = time.time()
-    # counter.add_merge_time(end_time-start_time)
-
-    # for role in all_roles:
-    #     counter.set_role(role)
-    #     efsm = efsms[role]
-    #     phase = f'Role {role} : Generating Type and Function from EFSM'
-    #     try:
-    #         other_roles = all_roles - set(role)
-    #         generator = DottyGenerator(efsm=efsm, protocol=protocol, role=role, other_roles=other_roles,
-    #                                    recurse_generator=recurse_generator, isWebsite=(isWebsite and role in website), host=host_map.get(role, ""))
-    #         type, function, label, channels = generator.build(counter)
-    #         output_generator.add_type(role, type)
-    #         output_generator.add_function(role, function)
-    #         channel_list.append((role, channels))
-    #         labels = labels.union(label)
-    #         logger.SUCCESS(phase)
-    #     except (OSError, ValueError) as error:
-    #         logger.FAIL(phase)
-    #         logger.ERROR(error)
-    #         return 1
-    # phase = f'Writing functions and types into file'
-    # try:
-    #     # print(counter.get_merge_time())
-    #     # print(counter.get_class_time())
-    #     # print(counter.get_efsm_time())
-    #     # print(counter.get_type_time())
-    #     # print(counter.get_function_time())
-    #     # print(counter.get_nuscr_time())
-    #     #print(counter.get_merge_time() + counter.get_class_time() + counter.get_efsm_time() + counter.get_type_time() + counter.get_function_time() + counter.get_nuscr_time())
-    #     line_counter.add_case_class(labels)
-    #     case_classes = CaseClassGenerator(labels).generate()
-    #     channels_assign = ChannelGenerator(channel_list, channel_map, asynchronous or err_detect).generate()
-    #     if not batch:
-    #         output_generator.single_output(output_folder, case_classes, channels_assign, protocol)
-    #     else:
-    #         output_generator.batch_output(output_folder, case_classes, channels_assign, protocol, all_roles, isWebsite, host_map)
-    #     logger.SUCCESS(phase)
-    # except (OSError, ValueError) as error:
-    #     logger.FAIL(phase)
-    #     logger.ERROR(error)
-    #     return 1
-    # return 0
+        phase = f'Role {role} : Generating Type and Function from EFSM'
+        try:
+            other_roles = all_roles - set(role)
+            generator = DottyGenerator(efsm=efsm, protocol=protocol, role=role, other_roles=other_roles,
+                                       recurse_generator=recurse_generator, isWebsite=(isWebsite and role in website), host=host_map.get(role, ""))
+            type, function, label, channels = generator.build(counter)
+            output_generator.add_type(role, type)
+            output_generator.add_function(role, function)
+            channel_list.append((role, channels))
+            labels = labels.union(label)
+            logger.SUCCESS(phase)
+        except (OSError, ValueError) as error:
+            logger.FAIL(phase)
+            logger.ERROR(error)
+            return 1
+    phase = f'Writing functions and types into file'
+    try:
+        # print(counter.get_merge_time())
+        # print(counter.get_class_time())
+        # print(counter.get_efsm_time())
+        # print(counter.get_type_time())
+        # print(counter.get_function_time())
+        # print(counter.get_nuscr_time())
+        #print(counter.get_merge_time() + counter.get_class_time() + counter.get_efsm_time() + counter.get_type_time() + counter.get_function_time() + counter.get_nuscr_time())
+        line_counter.add_case_class(labels)
+        case_classes = CaseClassGenerator(labels).generate()
+        channels_assign = ChannelGenerator(channel_list, channel_map, asynchronous or err_detect).generate()
+        if not batch:
+            output_generator.single_output(output_folder, case_classes, channels_assign, protocol)
+        else:
+            output_generator.batch_output(output_folder, case_classes, channels_assign, protocol, all_roles, isWebsite, host_map)
+        logger.SUCCESS(phase)
+    except (OSError, ValueError) as error:
+        logger.FAIL(phase)
+        logger.ERROR(error)
+        return 1
+    return 0
