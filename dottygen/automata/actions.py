@@ -17,7 +17,7 @@ class Action(ABC):
     succ: State = field(init=False, compare=False)
 
     _ACTION_LABEL_REGEX: typing.ClassVar[str] = '(?P<role>.+)(?P<op>[!?])(?P<label>.+)\((?P<payloads>.*)\)'
-    _ERR_MESSAGE_REGEX: typing.ClassVar[str] = '(?P<role>.+)(?P<op>[#])'
+    _ERR_MESSAGE_REGEX: typing.ClassVar[str] = '(?P<role>.+)\?(?P<op>[#])\(\)'
     _action_token_to_constructor: typing.ClassVar[typing.Dict[str, typing.Type['Action']]] = {}
 
     @classmethod
