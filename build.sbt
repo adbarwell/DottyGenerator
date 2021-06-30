@@ -1,12 +1,12 @@
 val dottyVersion = "3.0.1-RC1"
 val effpiVersion = "0.0.3"
 
-val useEffpiPlugin = settingKey[Boolean]("Use the effpi compiler plugin in sub-projects.")
+// val useEffpiPlugin = settingKey[Boolean]("Use the effpi compiler plugin in sub-projects.")
 
-inThisBuild(
-  // Can be changed from sbt by running `set ThisBuild / useEffpiPlugin := false`
-  useEffpiPlugin := true
-)
+// inThisBuild(
+//   // Can be changed from sbt by running `set ThisBuild / useEffpiPlugin := false`
+//   useEffpiPlugin := true
+// )
 
 lazy val effpi = (project in file("./effpi")).
   settings(
@@ -26,10 +26,10 @@ lazy val examples = project
   )
 
 lazy val tests = project
-  .in(file("effpi_sandbox"))
+  .in(file("com"))
   .dependsOn(effpi)
   .settings(
-    name := "effpi-sandbox",
+    name := "com",
     version := effpiVersion,
     scalaVersion := dottyVersion,
   )
@@ -52,6 +52,15 @@ lazy val pluginBenchmarks = project
   .dependsOn(effpi)
   .settings(
     name := "effpi-plugin-benchmarks",
+    version := effpiVersion,
+    scalaVersion := dottyVersion,
+  )
+
+lazy val simpleConsensus = project
+  .in(file("./SimpleConsensus"))
+  .dependsOn(effpi)
+  .settings(
+    name := "SimpleConsensus",
     version := effpiVersion,
     scalaVersion := dottyVersion,
   )

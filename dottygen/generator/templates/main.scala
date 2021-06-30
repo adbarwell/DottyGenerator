@@ -2,17 +2,17 @@
 // Copyright 2020 Alceste Scalas
 // Released under the MIT License: https://opensource.org/licenses/MIT
 
-package effpi_sandbox.PROTOCOL
+package com.PROTOCOL
 
 import effpi.process.dsl._
 import effpi.channel.Channel
 
 IMPORT_TYPES
 IMPORT_IMPLEMENTATIONS
-import effpi_sandbox.caseclass._
+import com.caseclass._
 
 // To run this example, try:
-// sbt 'tests/runMain effpi_sandbox.PROTOCOL.Main'
+// sbt 'tests/runMain com.PROTOCOL.Main'
 object Main {
   def main(): Unit = main(Array())
 

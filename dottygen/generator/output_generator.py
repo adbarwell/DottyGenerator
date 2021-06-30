@@ -6,7 +6,7 @@ basic_template_path =  os.path.abspath(os.path.join('dottygen','generator', "tem
 main_template_path =  os.path.abspath(os.path.join('dottygen','generator', "templates", "main.scala"))
 type_template_path =  os.path.abspath(os.path.join('dottygen','generator', "templates", "type.scala"))
 implementation_template_path =  os.path.abspath(os.path.join('dottygen','generator', "templates", "implementation.scala"))
-case_class_template_path =  os.path.abspath(os.path.join('dottygen','generator', "templates", "case_class.scala"))
+case_class_template_path =  os.path.abspath(os.path.join('dottygen','generator', "templates", "caseclass.scala"))
 
 website_implementation_template_path =  os.path.abspath(os.path.join('dottygen','generator', "templates", "website_implementation.scala"))
 http_template_path = os.path.abspath(os.path.join('dottygen','generator', "templates", "http.scala"))
@@ -67,8 +67,8 @@ class OutputGenerator:
             with open(implementation_file, "w") as f:
                 f.write(newText)
 
-            import_types += f"import effpi_sandbox.{role}.types._\n"
-            import_implementations += f"import effpi_sandbox.{role}.implementation._\n"
+            import_types += f"import com.{role}.types._\n"
+            import_implementations += f"import com.{role}.implementation._\n"
 
         output_file = os.path.join(output_folder, f'{protocol}.scala')
         shutil.copyfile(main_template_path, output_file)
@@ -78,7 +78,7 @@ class OutputGenerator:
         with open(output_file, "w") as f:
             f.write(newText)
 
-        output_file = os.path.join(output_folder, 'case_class.scala')
+        output_file = os.path.join(output_folder, 'caseclass.scala')
         shutil.copyfile(case_class_template_path, output_file)
         with open(output_file) as f:
             newText = f.read().replace('CASE_CLASSES', case_classes)

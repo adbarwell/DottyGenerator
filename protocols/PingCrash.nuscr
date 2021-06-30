@@ -1,9 +1,9 @@
 (*# ErrorHandlingCrashBranch #*)
 
-global protocol PingCrash(role P, role Q) {
-  choice at P {
-    Ping from P to Q;
+global protocol PingCrash(role RoleP, role RoleQ) {
+  choice at RoleP {
+    Ping from RoleP to RoleQ;
   } or {
-    crash from P to Q;
+    crash from RoleP to RoleQ;
   }
 }
