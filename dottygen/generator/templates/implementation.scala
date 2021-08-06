@@ -1,7 +1,7 @@
-package effpi_sandbox.ROLE.implementation
+package output.ROLE.implementation
 
-import effpi_sandbox.caseclass._
-import effpi_sandbox.ROLE.types._
+import output.caseclass._
+import output.ROLE.types._
 import effpi.process._
 import effpi.process.dsl._
 import effpi.channel.{InChannel, OutChannel}

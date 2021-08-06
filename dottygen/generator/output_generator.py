@@ -67,8 +67,8 @@ class OutputGenerator:
             with open(implementation_file, "w") as f:
                 f.write(newText)
 
-            import_types += f"import effpi_sandbox.{role}.types._\n"
-            import_implementations += f"import effpi_sandbox.{role}.implementation._\n"
+            import_types += f"import output.{role}.types._\n"
+            import_implementations += f"import output.{role}.implementation._\n"
 
         output_file = os.path.join(output_folder, f'{protocol}.scala')
         shutil.copyfile(main_template_path, output_file)

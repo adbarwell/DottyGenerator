@@ -2,7 +2,7 @@
 // Copyright 2020 Alceste Scalas
 // Released under the MIT License: https://opensource.org/licenses/MIT
 
-package effpi_sandbox.PROTOCOL
+package output.PROTOCOL
 
 import scala.concurrent.duration.Duration
 
@@ -27,7 +27,7 @@ package implementation {
 }
 
 // To run this example, try:
-// sbt 'tests/runMain effpi_sandbox.PROTOCOL.Main'
+// sbt 'tests/runMain output.PROTOCOL.Main'
 object Main {
   import types._
   import implementation._

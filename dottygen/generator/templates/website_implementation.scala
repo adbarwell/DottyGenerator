@@ -1,7 +1,7 @@
-package effpi_sandbox.ROLE.implementation
+package output.ROLE.implementation
 
-import effpi_sandbox.caseclass._
-import effpi_sandbox.ROLE.types._
+import output.caseclass._
+import output.ROLE.types._
 import effpi.process._
 import effpi.process.dsl._
 import effpi.channel.{InChannel, OutChannel}
@@ -14,7 +14,7 @@ import com.sun.net.httpserver.HttpServer
 import java.net.InetSocketAddress
 import scala.io.Source
 import java.io.InputStream
-import effpi_sandbox.Http.RootHandler
+import output.Http.RootHandler
 
 implicit val timeout: Duration = Duration("TIMEOUT seconds")
 private val semaphore = new Semaphore(0)

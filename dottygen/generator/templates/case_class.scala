@@ -1,4 +1,4 @@
-package effpi_sandbox.caseclass
+package output.caseclass
 import java.util.Date
 
 CASE_CLASSES

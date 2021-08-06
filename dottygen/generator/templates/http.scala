@@ -1,4 +1,4 @@
-package effpi_sandbox.Http
+package output.Http
 
 import java.io.{InputStream, OutputStream}
 import java.net.URLDecoder
