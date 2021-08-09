@@ -88,24 +88,21 @@ def generate(batch, output_folder, protocol, scribble_file, website, err_detect,
 
     for role in all_roles:
         counter.set_role(role)
-        if not err_detect:
-            try:
-                message = f'Role {role} : Getting protocol from {scribble_file}'
-                with type_declaration_parser.parse(scribble_file) as custom_types:
-                    start_time = time.time()
-                    exit_code, output = scribble.get_graph(scribble_file, protocol, role)
-                    end_time = time.time()
-                    counter.add_nuscr_time(end_time - start_time)
-                    if exit_code != 0:
-                        logger.FAIL(message)
-                        logger.ERROR(output)
-                        return exit_code
-                    logger.SUCCESS(message)
-            except (OSError, ValueError) as error:
-                logger.ERROR(error)
-                return 1
-        else:
-            output = FileReader(role, protocol).get_string()
+        try:
+            message = f'Role {role} : Getting protocol from {scribble_file}'
+            with type_declaration_parser.parse(scribble_file) as custom_types:
+                start_time = time.time()
+                exit_code, output = scribble.get_graph(scribble_file, protocol, role)
+                end_time = time.time()
+                counter.add_nuscr_time(end_time - start_time)
+                if exit_code != 0:
+                    logger.FAIL(message)
+                    logger.ERROR(output)
+                    return exit_code
+                logger.SUCCESS(message)
+        except (OSError, ValueError) as error:
+            logger.ERROR(error)
+            return 1
 
         phase = f'Role {role} : Parse endpoint IR from Scribble output'
         try:
