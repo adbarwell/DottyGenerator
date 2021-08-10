@@ -1,0 +1,142 @@
+SH
+
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role P : Generating Type and Function from EFSM
+✔ Role S : Generating Type and Function from EFSM
+✔ Role C : Generating Type and Function from EFSM
+get_nuscr_time 0.5380594730377197
+w/ nuScr:  0.5921938419342041
+w/o nuScr:  0.054134368896484375
+✔ Writing functions and types into file
+
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role S : Generating Type and Function from EFSM
+✔ Role C : Generating Type and Function from EFSM
+✔ Role P : Generating Type and Function from EFSM
+get_nuscr_time 0.5661430358886719
+w/ nuScr:  0.6211373805999756
+w/o nuScr:  0.05499434471130371
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role P : Generating Type and Function from EFSM
+✔ Role S : Generating Type and Function from EFSM
+✔ Role C : Generating Type and Function from EFSM
+get_nuscr_time 0.5643997192382812
+w/ nuScr:  0.6185038089752197
+w/o nuScr:  0.05410408973693848
+✔ Writing functions and types into file
+
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role S : Generating Type and Function from EFSM
+✔ Role C : Generating Type and Function from EFSM
+✔ Role P : Generating Type and Function from EFSM
+get_nuscr_time 0.5948092937469482
+w/ nuScr:  0.6493489742279053
+w/o nuScr:  0.05453968048095703
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role P : Generating Type and Function from EFSM
+✔ Role C : Generating Type and Function from EFSM
+✔ Role S : Generating Type and Function from EFSM
+get_nuscr_time 0.5439527034759521
+w/ nuScr:  0.5981752872467041
+w/o nuScr:  0.05422258377075195
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role P : Generating Type and Function from EFSM
+✔ Role C : Generating Type and Function from EFSM
+✔ Role S : Generating Type and Function from EFSM
+get_nuscr_time 0.5741567611694336
+w/ nuScr:  0.6284730434417725
+w/o nuScr:  0.05431628227233887
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role P : Generating Type and Function from EFSM
+✔ Role S : Generating Type and Function from EFSM
+✔ Role C : Generating Type and Function from EFSM
+get_nuscr_time 0.5701968669891357
+w/ nuScr:  0.6247615814208984
+w/o nuScr:  0.054564714431762695
+✔ Writing functions and types into file
+
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role C : Generating Type and Function from EFSM
+✔ Role S : Generating Type and Function from EFSM
+✔ Role P : Generating Type and Function from EFSM
+get_nuscr_time 0.5538628101348877
+w/ nuScr:  0.6083734035491943
+w/o nuScr:  0.05451059341430664
+✔ Writing functions and types into file
+
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role C : Generating Type and Function from EFSM
+✔ Role S : Generating Type and Function from EFSM
+✔ Role P : Generating Type and Function from EFSM
+get_nuscr_time 0.49942922592163086
+w/ nuScr:  0.5541636943817139
+w/o nuScr:  0.05473446846008301
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role P : Generating Type and Function from EFSM
+✔ Role S : Generating Type and Function from EFSM
+✔ Role C : Generating Type and Function from EFSM
+get_nuscr_time 0.5592918395996094
+w/ nuScr:  0.6132791042327881
+w/o nuScr:  0.05398726463317871
+✔ Writing functions and types into file
+
