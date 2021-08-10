@@ -49,6 +49,7 @@ class ChannelGenerator():
             else:
                 channel_types.append(f"Channel[{get_labels_name(list(channel_labels))}]()")
 
+        print("No. Channels:", len(channel_names))
         participant_funcs = []
         for role, channels in self._channel_list:
             participant_channels = []

@@ -144,6 +144,8 @@ def generate(batch, output_folder, protocol, scribble_file, website, err_detect,
             logger.ERROR(error)
             return 1
     phase = f'Writing functions and types into file'
+    print("No. Types:", len(output_generator._effpi_types))
+    print("No. Labels:", len(labels))
     try:
         # print(counter.get_merge_time())
         # print(counter.get_class_time())

@@ -11,6 +11,8 @@ from dottygen.generator.channels import InChannel, OutChannel, InErrChannel
 from dottygen.automata.efsm import EFSM
 from dottygen.utils.type_declaration_parser import DataType
 
+from inspect import isclass
+
 class DottyGenerator:
 
     _efsm: EFSM
@@ -128,9 +130,32 @@ class DottyGenerator:
         self._function_count += 1
         return self._role +"_" + str(self._function_count), f"X_{self._function_count}"
 
+    def depth1(self, body):
+        if isinstance(body, InErrChannel):
+            r1 = self.depth1(body.continuation)
+            r2 = self.depth1(body._error_continuation)
+            if r1 > r2:
+                r = r1
+            else:
+                r = r2
+        elif isinstance(body, (InChannel, OutChannel, Loop)):
+            r = self.depth1(body.get_continuation()[0])
+        elif isinstance(body, (Selection, TypeMatch)):
+            r = max(list(map(self.depth1, body.get_continuation())))
+        elif isinstance(body, (termination, FunctionCall, Goto)):
+            r = 0
+        else:
+            print("unknown", body)
+            r = 0
+        return (r + 1)
+    
+    def depth(self, fn):
+        return self.depth1(fn._body)
+
     def generate_type(self):
         type = ""
         for function in self._function_list:
+            print("Type Depth", self.depth(function))
             type  += function.get_type()
         return type
 
