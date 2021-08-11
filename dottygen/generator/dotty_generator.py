@@ -142,7 +142,7 @@ class DottyGenerator:
             r = self.depth1(body.get_continuation()[0])
         elif isinstance(body, (Selection, TypeMatch)):
             r = max(list(map(self.depth1, body.get_continuation())))
-        elif isinstance(body, (termination, FunctionCall, Goto)):
+        elif isinstance(body, (Termination, FunctionCall, Goto)):
             r = 0
         else:
             print("unknown", body)
