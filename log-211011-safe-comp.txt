@@ -1,0 +1,2382 @@
+SH
+
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 4
+Type Depth 4
+✔ Role C : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 6
+✔ Role S : Generating Type and Function from EFSM
+Type Depth 2
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 7
+get_nuscr_time 0.5587880611419678
+w/ nuScr:  0.6135897636413574
+w/o nuScr:  0.05480170249938965
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 4
+Type Depth 4
+✔ Role C : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 6
+✔ Role S : Generating Type and Function from EFSM
+Type Depth 2
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 7
+get_nuscr_time 0.5938408374786377
+w/ nuScr:  0.6488280296325684
+w/o nuScr:  0.054987192153930664
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 6
+✔ Role S : Generating Type and Function from EFSM
+Type Depth 2
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 4
+✔ Role C : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 7
+get_nuscr_time 0.6527090072631836
+w/ nuScr:  0.707817792892456
+w/o nuScr:  0.05510878562927246
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 6
+✔ Role S : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 4
+✔ Role C : Generating Type and Function from EFSM
+Type Depth 2
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 7
+get_nuscr_time 0.6042909622192383
+w/ nuScr:  0.659153938293457
+w/o nuScr:  0.05486297607421875
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+Type Depth 2
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 6
+✔ Role S : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 4
+✔ Role C : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 7
+get_nuscr_time 0.6976850032806396
+w/ nuScr:  0.7520110607147217
+w/o nuScr:  0.05432605743408203
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 4
+Type Depth 4
+✔ Role C : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 6
+✔ Role S : Generating Type and Function from EFSM
+Type Depth 2
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 7
+get_nuscr_time 0.5726766586303711
+w/ nuScr:  0.627117395401001
+w/o nuScr:  0.05444073677062988
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+Type Depth 4
+Type Depth 4
+✔ Role C : Generating Type and Function from EFSM
+Type Depth 2
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 6
+✔ Role S : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 7
+get_nuscr_time 0.5973453521728516
+w/ nuScr:  0.6519749164581299
+w/o nuScr:  0.05462956428527832
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+Type Depth 2
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 6
+✔ Role S : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 4
+✔ Role C : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 7
+get_nuscr_time 0.5677816867828369
+w/ nuScr:  0.6219143867492676
+w/o nuScr:  0.054132699966430664
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 4
+Type Depth 4
+✔ Role C : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 6
+✔ Role S : Generating Type and Function from EFSM
+Type Depth 2
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 7
+get_nuscr_time 0.5993170738220215
+w/ nuScr:  0.6540615558624268
+w/o nuScr:  0.05474448204040527
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role C : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role C : Parse endpoint IR from Scribble output
+✔ Role S : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role S : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SH.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 4
+Type Depth 4
+✔ Role C : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 6
+✔ Role S : Generating Type and Function from EFSM
+Type Depth 2
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 7
+get_nuscr_time 0.593754768371582
+w/ nuScr:  0.6489970684051514
+w/o nuScr:  0.055242300033569336
+No. Channels: 5
+✔ Writing functions and types into file
+
+PingCrash
+
+✔ Role RoleP : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 1
+get_nuscr_time 0.41165637969970703
+w/ nuScr:  0.42880892753601074
+w/o nuScr:  0.01715254783630371
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+✔ Role RoleP : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 1
+get_nuscr_time 0.5121541023254395
+w/ nuScr:  0.5290138721466064
+w/o nuScr:  0.016859769821166992
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+✔ Role RoleP : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 1
+get_nuscr_time 0.41583251953125
+w/ nuScr:  0.4328799247741699
+w/o nuScr:  0.017047405242919922
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+✔ Role RoleP : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 1
+get_nuscr_time 0.4265725612640381
+w/ nuScr:  0.44353628158569336
+w/o nuScr:  0.016963720321655273
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+✔ Role RoleP : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 1
+get_nuscr_time 0.42942047119140625
+w/ nuScr:  0.44634151458740234
+w/o nuScr:  0.016921043395996094
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleP : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 1
+get_nuscr_time 0.47079968452453613
+w/ nuScr:  0.4877471923828125
+w/o nuScr:  0.016947507858276367
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleP : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 1
+get_nuscr_time 0.43183040618896484
+w/ nuScr:  0.4488248825073242
+w/o nuScr:  0.016994476318359375
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+✔ Role RoleP : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 1
+get_nuscr_time 0.43648719787597656
+w/ nuScr:  0.4534783363342285
+w/o nuScr:  0.016991138458251953
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleP : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 1
+get_nuscr_time 0.41697168350219727
+w/ nuScr:  0.43409228324890137
+w/o nuScr:  0.0171205997467041
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleP : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/PingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 1
+get_nuscr_time 0.4426767826080322
+w/ nuScr:  0.4596290588378906
+w/o nuScr:  0.0169522762298584
+No. Channels: 1
+✔ Writing functions and types into file
+
+PingPongCrash
+
+✔ Role P : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.5205569267272949
+w/ nuScr:  0.5452780723571777
+w/o nuScr:  0.024721145629882812
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.44777774810791016
+w/ nuScr:  0.4720900058746338
+w/o nuScr:  0.024312257766723633
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.4552140235900879
+w/ nuScr:  0.47969746589660645
+w/o nuScr:  0.024483442306518555
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.5666804313659668
+w/ nuScr:  0.5910441875457764
+w/o nuScr:  0.02436375617980957
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.4306633472442627
+w/ nuScr:  0.4551558494567871
+w/o nuScr:  0.024492502212524414
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.46816158294677734
+w/ nuScr:  0.4927339553833008
+w/o nuScr:  0.024572372436523438
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.4029068946838379
+w/ nuScr:  0.4273867607116699
+w/o nuScr:  0.02447986602783203
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.4041178226470947
+w/ nuScr:  0.42867207527160645
+w/o nuScr:  0.02455425262451172
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.47762584686279297
+w/ nuScr:  0.5024526119232178
+w/o nuScr:  0.024826765060424805
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/PingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.40404319763183594
+w/ nuScr:  0.4287607669830322
+w/o nuScr:  0.02471756935119629
+No. Channels: 2
+✔ Writing functions and types into file
+
+SimpleBroadcastAll
+
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.740093469619751
+w/ nuScr:  0.8075611591339111
+w/o nuScr:  0.06746768951416016
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.854839563369751
+w/ nuScr:  0.9185450077056885
+w/o nuScr:  0.0637054443359375
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.6874847412109375
+w/ nuScr:  0.7543461322784424
+w/o nuScr:  0.06686139106750488
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.543877363204956
+w/ nuScr:  0.6113035678863525
+w/o nuScr:  0.06742620468139648
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.6856122016906738
+w/ nuScr:  0.7529501914978027
+w/o nuScr:  0.0673379898071289
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.6882169246673584
+w/ nuScr:  0.7521562576293945
+w/o nuScr:  0.06393933296203613
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.6072096824645996
+w/ nuScr:  0.673846960067749
+w/o nuScr:  0.06663727760314941
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.5884737968444824
+w/ nuScr:  0.6562867164611816
+w/o nuScr:  0.06781291961669922
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.6726808547973633
+w/ nuScr:  0.7401132583618164
+w/o nuScr:  0.06743240356445312
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.7020530700683594
+w/ nuScr:  0.7661228179931641
+w/o nuScr:  0.06406974792480469
+No. Channels: 4
+✔ Writing functions and types into file
+
+SimpleConsensus
+
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 3
+Type Depth 4
+Type Depth 3
+Type Depth 6
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A2 : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 5
+get_nuscr_time 0.8617968559265137
+w/ nuScr:  0.9676737785339355
+w/o nuScr:  0.10587692260742188
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role L : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 4
+Type Depth 3
+Type Depth 6
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 5
+get_nuscr_time 0.8861188888549805
+w/ nuScr:  0.9916365146636963
+w/o nuScr:  0.10551762580871582
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 3
+Type Depth 4
+Type Depth 3
+Type Depth 6
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A2 : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 5
+get_nuscr_time 1.0121545791625977
+w/ nuScr:  1.1177241802215576
+w/o nuScr:  0.10556960105895996
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role A2 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 4
+Type Depth 3
+Type Depth 6
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 5
+get_nuscr_time 0.9291095733642578
+w/ nuScr:  1.034818172454834
+w/o nuScr:  0.10570859909057617
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role L : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 4
+Type Depth 3
+Type Depth 6
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A1 : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 5
+get_nuscr_time 0.9861071109771729
+w/ nuScr:  1.0928535461425781
+w/o nuScr:  0.10674643516540527
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role L : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 4
+Type Depth 3
+Type Depth 6
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 5
+get_nuscr_time 1.0299530029296875
+w/ nuScr:  1.1365127563476562
+w/o nuScr:  0.10655975341796875
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role A1 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 4
+Type Depth 3
+Type Depth 6
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 5
+get_nuscr_time 1.0652077198028564
+w/ nuScr:  1.171170949935913
+w/o nuScr:  0.10596323013305664
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role A1 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 4
+Type Depth 3
+Type Depth 6
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A2 : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 5
+get_nuscr_time 0.8845605850219727
+w/ nuScr:  0.9902622699737549
+w/o nuScr:  0.10570168495178223
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role L : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 4
+Type Depth 3
+Type Depth 6
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A2 : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 5
+get_nuscr_time 0.7949333190917969
+w/ nuScr:  0.8998067378997803
+w/o nuScr:  0.1048734188079834
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/SimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 3
+Type Depth 4
+Type Depth 3
+Type Depth 6
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role A1 : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 5
+get_nuscr_time 0.8970844745635986
+w/ nuScr:  1.0035316944122314
+w/o nuScr:  0.10644721984863281
+No. Channels: 5
+✔ Writing functions and types into file
+
+SimpleBroadcast
+
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.67875075340271
+w/ nuScr:  0.7346887588500977
+w/o nuScr:  0.055938005447387695
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.7536861896514893
+w/ nuScr:  0.8102035522460938
+w/o nuScr:  0.05651736259460449
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.6158185005187988
+w/ nuScr:  0.6719913482666016
+w/o nuScr:  0.056172847747802734
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.6846420764923096
+w/ nuScr:  0.740668535232544
+w/o nuScr:  0.056026458740234375
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.6383240222930908
+w/ nuScr:  0.6941308975219727
+w/o nuScr:  0.055806875228881836
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.5409579277038574
+w/ nuScr:  0.5966072082519531
+w/o nuScr:  0.0556492805480957
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.5664727687835693
+w/ nuScr:  0.6226043701171875
+w/o nuScr:  0.056131601333618164
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.7287623882293701
+w/ nuScr:  0.7849733829498291
+w/o nuScr:  0.056210994720458984
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.6522424221038818
+w/ nuScr:  0.7077820301055908
+w/o nuScr:  0.055539608001708984
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/SimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 4
+get_nuscr_time 0.590019941329956
+w/ nuScr:  0.6458163261413574
+w/o nuScr:  0.05579638481140137
+No. Channels: 4
+✔ Writing functions and types into file
+
+NoPingCrash
+
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+✔ Role RoleP : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.39735865592956543
+w/ nuScr:  0.41669487953186035
+w/o nuScr:  0.019336223602294922
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+✔ Role RoleP : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.36792564392089844
+w/ nuScr:  0.38793253898620605
+w/o nuScr:  0.020006895065307617
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+✔ Role RoleP : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.3419322967529297
+w/ nuScr:  0.361400842666626
+w/o nuScr:  0.01946854591369629
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+✔ Role RoleP : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.33780980110168457
+w/ nuScr:  0.3578062057495117
+w/o nuScr:  0.01999640464782715
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleP : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.32399487495422363
+w/ nuScr:  0.3437628746032715
+w/o nuScr:  0.01976799964904785
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleP : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.30964064598083496
+w/ nuScr:  0.32915282249450684
+w/o nuScr:  0.019512176513671875
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleP : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.2872908115386963
+w/ nuScr:  0.3069472312927246
+w/o nuScr:  0.01965641975402832
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleP : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.40464305877685547
+w/ nuScr:  0.42418861389160156
+w/o nuScr:  0.019545555114746094
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+✔ Role RoleP : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.2825510501861572
+w/ nuScr:  0.3023185729980469
+w/o nuScr:  0.01976752281188965
+No. Channels: 1
+✔ Writing functions and types into file
+
+✔ Role RoleQ : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleQ : Parse endpoint IR from Scribble output
+✔ Role RoleP : Getting protocol from /home/dev/protocls/NoPingCrash.nuscr
+✔ Role RoleP : Parse endpoint IR from Scribble output
+Type Depth 2
+✔ Role RoleQ : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role RoleP : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 2
+get_nuscr_time 0.32373929023742676
+w/ nuScr:  0.34389734268188477
+w/o nuScr:  0.020158052444458008
+No. Channels: 1
+✔ Writing functions and types into file
+
+NoPingPongCrash
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 3
+get_nuscr_time 0.33935976028442383
+w/ nuScr:  0.3692009449005127
+w/o nuScr:  0.029841184616088867
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 3
+get_nuscr_time 0.4634227752685547
+w/ nuScr:  0.4937598705291748
+w/o nuScr:  0.030337095260620117
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 3
+get_nuscr_time 0.36301589012145996
+w/ nuScr:  0.39870667457580566
+w/o nuScr:  0.0356907844543457
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 3
+get_nuscr_time 0.4718949794769287
+w/ nuScr:  0.5018548965454102
+w/o nuScr:  0.029959917068481445
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 3
+get_nuscr_time 0.5116138458251953
+w/ nuScr:  0.5461795330047607
+w/o nuScr:  0.03456568717956543
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 3
+get_nuscr_time 0.5237226486206055
+w/ nuScr:  0.5547440052032471
+w/o nuScr:  0.0310213565826416
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 3
+get_nuscr_time 0.4140782356262207
+w/ nuScr:  0.44408440589904785
+w/o nuScr:  0.03000617027282715
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 3
+get_nuscr_time 0.4884061813354492
+w/ nuScr:  0.5185437202453613
+w/o nuScr:  0.03013753890991211
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 3
+get_nuscr_time 0.47941136360168457
+w/ nuScr:  0.511775016784668
+w/o nuScr:  0.0323636531829834
+No. Channels: 2
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoPingPongCrash.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 2
+No. Labels: 3
+get_nuscr_time 0.36945271492004395
+w/ nuScr:  0.4023764133453369
+w/o nuScr:  0.03292369842529297
+No. Channels: 2
+✔ Writing functions and types into file
+
+NoSimpleBroadcastAll
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.5628724098205566
+w/ nuScr:  0.6487505435943604
+w/o nuScr:  0.08587813377380371
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.6444950103759766
+w/ nuScr:  0.7304732799530029
+w/o nuScr:  0.08597826957702637
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.7835958003997803
+w/ nuScr:  0.8687021732330322
+w/o nuScr:  0.08510637283325195
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.7169461250305176
+w/ nuScr:  0.8017115592956543
+w/o nuScr:  0.08476543426513672
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.5553696155548096
+w/ nuScr:  0.6400666236877441
+w/o nuScr:  0.08469700813293457
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.8229491710662842
+w/ nuScr:  0.908193826675415
+w/o nuScr:  0.08524465560913086
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.7951180934906006
+w/ nuScr:  0.8808426856994629
+w/o nuScr:  0.0857245922088623
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.6741466522216797
+w/ nuScr:  0.7598981857299805
+w/o nuScr:  0.08575153350830078
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.7052617073059082
+w/ nuScr:  0.7964937686920166
+w/o nuScr:  0.0912320613861084
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcastAll.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.7342362403869629
+w/ nuScr:  0.8209810256958008
+w/o nuScr:  0.08674478530883789
+No. Channels: 4
+✔ Writing functions and types into file
+
+NoSimpleConsensus
+
+✔ Role A2 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 2
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 4
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 6
+get_nuscr_time 0.9857940673828125
+w/ nuScr:  1.1501171588897705
+w/o nuScr:  0.164323091506958
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role A1 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 2
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 4
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 6
+get_nuscr_time 0.7372057437896729
+w/ nuScr:  0.9056899547576904
+w/o nuScr:  0.16848421096801758
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 4
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A2 : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 6
+get_nuscr_time 1.0065889358520508
+w/ nuScr:  1.1750245094299316
+w/o nuScr:  0.16843557357788086
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role A2 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 2
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 4
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 6
+get_nuscr_time 1.0547661781311035
+w/ nuScr:  1.2189130783081055
+w/o nuScr:  0.16414690017700195
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 4
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A2 : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 6
+get_nuscr_time 0.8965404033660889
+w/ nuScr:  1.0624635219573975
+w/o nuScr:  0.1659231185913086
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 4
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 6
+get_nuscr_time 0.9463973045349121
+w/ nuScr:  1.113473892211914
+w/o nuScr:  0.16707658767700195
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role A2 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 4
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A2 : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 6
+get_nuscr_time 0.979910135269165
+w/ nuScr:  1.1475281715393066
+w/o nuScr:  0.1676180362701416
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role A2 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 2
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 4
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 6
+get_nuscr_time 0.7816166877746582
+w/ nuScr:  0.9491894245147705
+w/o nuScr:  0.1675727367401123
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role A2 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 2
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 4
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 6
+get_nuscr_time 0.8185226917266846
+w/ nuScr:  0.9831185340881348
+w/o nuScr:  0.1645958423614502
+No. Channels: 5
+✔ Writing functions and types into file
+
+✔ Role A2 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A2 : Parse endpoint IR from Scribble output
+✔ Role A1 : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role A1 : Parse endpoint IR from Scribble output
+✔ Role L : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role L : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleConsensus.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 2
+✔ Role A2 : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 2
+✔ Role A1 : Generating Type and Function from EFSM
+Type Depth 2
+✔ Role L : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 3
+Type Depth 4
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 4
+No. Labels: 6
+get_nuscr_time 0.816805362701416
+w/ nuScr:  0.9799449443817139
+w/o nuScr:  0.16313958168029785
+No. Channels: 5
+✔ Writing functions and types into file
+
+NoSimpleBroadcast
+
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 4
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.8591048717498779
+w/ nuScr:  0.9269304275512695
+w/o nuScr:  0.0678255558013916
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 4
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.8185579776763916
+w/ nuScr:  0.8863117694854736
+w/o nuScr:  0.06775379180908203
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.7666904926300049
+w/ nuScr:  0.8347291946411133
+w/o nuScr:  0.0680387020111084
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 4
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.9107329845428467
+w/ nuScr:  0.9781625270843506
+w/o nuScr:  0.0674295425415039
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.7842757701873779
+w/ nuScr:  0.8529260158538818
+w/o nuScr:  0.0686502456665039
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.6860618591308594
+w/ nuScr:  0.753509521484375
+w/o nuScr:  0.06744766235351562
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.6406676769256592
+w/ nuScr:  0.7080981731414795
+w/o nuScr:  0.06743049621582031
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+Type Depth 3
+Type Depth 4
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.6853890419006348
+w/ nuScr:  0.7531893253326416
+w/o nuScr:  0.06780028343200684
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.7207329273223877
+w/ nuScr:  0.7880136966705322
+w/o nuScr:  0.06728076934814453
+No. Channels: 4
+✔ Writing functions and types into file
+
+✔ Role P : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role P : Parse endpoint IR from Scribble output
+✔ Role Q : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role Q : Parse endpoint IR from Scribble output
+✔ Role R : Getting protocol from /home/dev/protocls/NoSimpleBroadcast.nuscr
+✔ Role R : Parse endpoint IR from Scribble output
+Type Depth 3
+✔ Role P : Generating Type and Function from EFSM
+Type Depth 3
+Type Depth 4
+Type Depth 2
+✔ Role Q : Generating Type and Function from EFSM
+Type Depth 4
+Type Depth 2
+✔ Role R : Generating Type and Function from EFSM
+No. Types: 3
+No. Labels: 5
+get_nuscr_time 0.7786614894866943
+w/ nuScr:  0.8460671901702881
+w/o nuScr:  0.06740570068359375
+No. Channels: 4
+✔ Writing functions and types into file
+
