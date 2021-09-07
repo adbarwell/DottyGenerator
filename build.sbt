@@ -26,10 +26,10 @@ lazy val examples = project
   )
 
 lazy val tests = project
-  .in(file("effpi_sandbox"))
+  .in(file("output"))
   .dependsOn(effpi)
   .settings(
-    name := "effpi-sandbox",
+    name := "output",
     version := effpiVersion,
     scalaVersion := dottyVersion,
   )
