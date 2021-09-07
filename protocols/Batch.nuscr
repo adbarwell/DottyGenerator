@@ -1,0 +1,9 @@
+module BatchTest;
+
+global protocol PartOne(role P, role Q) {
+  Ping from P to Q;
+}
+
+global protocol PartTwo(role R, role S) {
+  Pong from R to S;
+}
