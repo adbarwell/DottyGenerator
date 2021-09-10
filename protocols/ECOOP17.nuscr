@@ -60,10 +60,10 @@ global protocol Init(role Q, role Pa, role Pb, role Pc) {
 global protocol Game(role A, role B, role C) {
   InfoBC(x : string) from B to C;
   InfoCA(x : string) from C to A;
-  InfoAB(x : string) from B to C;
+  InfoAB(x : string) from A to B;
   choice at A {
     Mov1AB(y : Int) from A to B;
-    Mov1BC(y : Int) from A to C;
+    Mov1AC(y : Int) from A to C;
     choice at C {
       Mov1CA(y : Int) from C to A;
       do Game(A, B, C);

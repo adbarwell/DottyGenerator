@@ -31,9 +31,9 @@ implicit val timeout: Duration = Duration("60 seconds")
    def pb(
       c_Pb_Q_1: InChannel[PlayB],
       c_Pb_Pc_1: OutChannel[InfoBC],
-      c_Pb_Pc_2: OutChannel[InfoAB],
-      c_Pb_Pa_1: InChannel[Mov1AB|Mov2AB]
-   ):Pb[c_Pb_Q_1.type,c_Pb_Pc_1.type,c_Pb_Pc_2.type,c_Pb_Pa_1.type] ={
+      c_Pb_Pa_1: InChannel[InfoAB],
+      c_Pb_Pa_2: InChannel[Mov1AB|Mov2AB]
+   ):Pb[c_Pb_Q_1.type,c_Pb_Pc_1.type,c_Pb_Pa_1.type,c_Pb_Pa_2.type] ={
       receive(c_Pb_Q_1) {
          (x:PlayB) =>
          print("Pb:Receive type PlayB through channel c_Pb_Q_1\n")
@@ -41,11 +41,12 @@ implicit val timeout: Duration = Duration("60 seconds")
             print("Pb:entering loop RecPb_1\n")
             print("Pb:Sending InfoBC through channel c_Pb_Pc_1\n")
             send(c_Pb_Pc_1,InfoBC("REPLACE_ME")) >> {
-               print("Pb:Sending InfoAB through channel c_Pb_Pc_2\n")
-               send(c_Pb_Pc_2,InfoAB("REPLACE_ME")) >> {
-                  receive(c_Pb_Pa_1) {
+               receive(c_Pb_Pa_1) {
+                  (x:InfoAB) =>
+                  print("Pb:Receive type InfoAB through channel c_Pb_Pa_1\n")
+                  receive(c_Pb_Pa_2) {
                      (x_2:Mov1AB|Mov2AB) =>
-                     print("Pb:Receive type Mov1AB|Mov2AB through channel c_Pb_Pa_1\n")
+                     print("Pb:Receive type Mov1AB|Mov2AB through channel c_Pb_Pa_2\n")
                      pb_2(x_2)
                   }
                }

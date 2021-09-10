@@ -12,7 +12,7 @@ import java.util.Date
 implicit val timeout: Duration = Duration("60 seconds")
 
    private def pc_2(
-      x_2: Mov2AC|Mov1BC,
+      x_2: Mov2AC|Mov1AC,
       c_Pc_Pa_3: OutChannel[Mov1CA|Mov2CA]
    ):Pc_2[x_2.type,c_Pc_Pa_3.type] =
       x_2 match {
@@ -36,8 +36,8 @@ implicit val timeout: Duration = Duration("60 seconds")
                }
             }
          }
-         case x_2 : Mov1BC => {
-            print("Pc:Actual type Received from x_2: Mov1BC\n")
+         case x_2 : Mov1AC => {
+            print("Pc:Actual type Received from x_2: Mov1AC\n")
             val r = scala.util.Random(System.currentTimeMillis())
             val decision = r.nextInt(2)
             print("Pc:Making selection through channel c_Pc_Pa_3\n")
@@ -63,10 +63,9 @@ implicit val timeout: Duration = Duration("60 seconds")
       c_Pc_Q_1: InChannel[PlayC],
       c_Pc_Pb_1: InChannel[InfoBC],
       c_Pc_Pa_1: OutChannel[InfoCA],
-      c_Pc_Pb_2: InChannel[InfoAB],
-      c_Pc_Pa_2: InChannel[Mov2AC|Mov1BC],
+      c_Pc_Pa_2: InChannel[Mov2AC|Mov1AC],
       c_Pc_Pa_3: OutChannel[Mov1CA|Mov2CA]
-   ):Pc[c_Pc_Q_1.type,c_Pc_Pb_1.type,c_Pc_Pa_1.type,c_Pc_Pb_2.type,c_Pc_Pa_2.type,c_Pc_Pa_3.type] ={
+   ):Pc[c_Pc_Q_1.type,c_Pc_Pb_1.type,c_Pc_Pa_1.type,c_Pc_Pa_2.type,c_Pc_Pa_3.type] ={
       receive(c_Pc_Q_1) {
          (x:PlayC) =>
          print("Pc:Receive type PlayC through channel c_Pc_Q_1\n")
@@ -77,14 +76,10 @@ implicit val timeout: Duration = Duration("60 seconds")
                print("Pc:Receive type InfoBC through channel c_Pc_Pb_1\n")
                print("Pc:Sending InfoCA through channel c_Pc_Pa_1\n")
                send(c_Pc_Pa_1,InfoCA("REPLACE_ME")) >> {
-                  receive(c_Pc_Pb_2) {
-                     (x:InfoAB) =>
-                     print("Pc:Receive type InfoAB through channel c_Pc_Pb_2\n")
-                     receive(c_Pc_Pa_2) {
-                        (x_2:Mov2AC|Mov1BC) =>
-                        print("Pc:Receive type Mov2AC|Mov1BC through channel c_Pc_Pa_2\n")
-                        pc_2(x_2,c_Pc_Pa_3)
-                     }
+                  receive(c_Pc_Pa_2) {
+                     (x_2:Mov2AC|Mov1AC) =>
+                     print("Pc:Receive type Mov2AC|Mov1AC through channel c_Pc_Pa_2\n")
+                     pc_2(x_2,c_Pc_Pa_3)
                   }
                }
             }
