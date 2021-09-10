@@ -28,12 +28,7 @@ implicit val timeout: Duration = Duration("60 seconds")
       }
 
 
-   def pb(
-      c_Pb_Q_1: InChannel[PlayB],
-      c_Pb_Pc_1: OutChannel[InfoBC],
-      c_Pb_Pa_1: InChannel[InfoAB],
-      c_Pb_Pa_2: InChannel[Mov1AB|Mov2AB]
-   ):Pb[c_Pb_Q_1.type,c_Pb_Pc_1.type,c_Pb_Pa_1.type,c_Pb_Pa_2.type] ={
+   def pb(c_Pb_Q_1: InChannel[PlayB[OutChannel[InfoBC], InChannel[InfoAB], InChannel[Mov1AB|Mov2AB]]]):Pb[c_Pb_Q_1.type] ={
       receive(c_Pb_Q_1) {
          (x:PlayB) =>
          print("Pb:Receive type PlayB through channel c_Pb_Q_1\n")

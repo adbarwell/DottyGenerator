@@ -28,22 +28,26 @@ object Main {
     println("Successfully compiled! Running now...")
     implicit val ps = effpi.system.ProcessSystemRunnerImproved()
 
-    val(c1, c2, c3, c4, c5, c6, c7, c8, c9) = 
-     (Channel[Mov2AC|Mov1AC](),
-     Channel[InfoCA](),
-     Channel[Mov1CA|Mov2CA](),
-     Channel[InfoBC](),
-     Channel[PlayC](),
-     Channel[InfoAB](),
-     Channel[Mov2AB|Mov1AB](),
-     Channel[PlayA](),
-     Channel[PlayB]()) 
+    val(c1, c2, c3, c4, c6, c7) = 
+     (Channel[Mov2AC|Mov1AC](), // c1
+     Channel[InfoCA](),         // c2
+     Channel[Mov1CA|Mov2CA](),  // c3
+     Channel[InfoBC](),         // c4
+    //  Channel[PlayC](),          // c5 // Send session
+     Channel[InfoAB](),         // c6
+     Channel[Mov2AB|Mov1AB]()) //,  // c7
+    //  Channel[PlayA](),          // c8 // Send session
+    //  Channel[PlayB[c4.type,c6.type,c7.type]]())          // c9 // Send session
+
+    val (c5, c8, c9) = (Channel[PlayA](),
+                        Channel[PlayB[c4.type,c6.type,c7.type]](),
+                        Channel[PlayC]())
 
     eval(par(
-     pc(c5, c4, c2, c1, c3),
-     pa(c8, c2, c6, c7, c1, c3, c1),
-     pb(c9, c4, c6, c7),
-     q(c8, c9, c5)))
+    //  pc(c5, c4, c2, c1, c3),
+    //  pa(c8, c2, c6, c7, c1, c3, c1),
+     pb(c9),
+     q(c4, c6, c7, c8, c9, c5)))
 
 
     Thread.sleep(1000)
