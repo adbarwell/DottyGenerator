@@ -1,0 +1,85 @@
+/*
+// Alceste's ECOOP17 example is a matchmaking example where you have a central
+// server that introduces players to each other. It does this via delegation:
+// the matchmaker sends a session to each of the players.
+//
+// We don't have delegation in nuScr so maybe we should focus on the three
+// sessions following their matchmaking. That doesn't make sense, because it'd
+// be better to have a single session modelling each of them.
+
+
+// What if we have a similar game like arcade type system. Where each
+// participant has its own session with the central server and the people he's
+// actively playing with. Multiple games can be played at the same time by
+// different groups of people, which gives rise to multiple sessions. (Say, for
+// example, chess, mahjong, and gin rummy. (2 + 4 + 2) + the game server.)
+// Wouldn't we end up with three game servers if the protocolas are independent?
+// If you do, you could have an additional thing which speaks to all of them. In
+// the theory section, we can hint at matchmaking. In the implementation
+// section, we can demonstrate how each can run concurrently with each other.
+
+// Perhaps, we can adjust our implementation so that if participant names are
+// not distinct across protocols, then they are treated as the same process in
+// the implementation? How does this work at the moment? At the moment, it would
+// seem that roles that are declared in more than one global protocol results in
+// an error (unbound role R) due to the DottyGen fetching of role names.
+
+
+// I think that as a bare minimum we need some way of linking up processes in
+// the implementation such that similarly named participants are treated as the
+// same process.
+
+// Ah, but then you have odd squidging/interleaving. The only alternative is to
+// support delegation which is more annoying/difficult.
+
+// How difficult is interleaving and how do you do it (automatically) in the
+// first place?
+
+// Or, ultimately, do we care about having an 'interesting' example? We could
+// have the theory interleaved, but leave the implementation example by itself.
+
+
+// Based on what Nobuko said, we are interested in the model checking aspect
+// because it can do things (such as multi-session verification) that global
+// types cannot necessarily do. Is she intending to use it as a guide for the
+// programmer? If so, can we define transformations based on errors/properties?
+
+
+// ----------------------------------------------------------------------------
+*/
+
+
+
+global protocol Init(role Q, role Pa, role Pb, role Pc) {
+  PlayA(sa : string) from Q to Pa;
+  PlayB(sb : string) from Q to Pb;
+  PlayC(sc : string) from Q to Pc;
+  do Game(Pa, Pb, Pc);
+}
+
+global protocol Game(role A, role B, role C) {
+  InfoBC(x : string) from B to C;
+  InfoCA(x : string) from C to A;
+  InfoAB(x : string) from B to C;
+  choice at A {
+    Mov1AB(y : Int) from A to B;
+    Mov1BC(y : Int) from A to C;
+    choice at C {
+      Mov1CA(y : Int) from C to A;
+      do Game(A, B, C);
+    } or {
+      Mov2CA(z : Boolean) from C to A;
+      do Game(A, B, C);
+    }
+  } or {
+    Mov2AB(z : Boolean) from A to B;
+    Mov2AC(z : Boolean) from A to C;
+    choice at C {
+      Mov1CA(y : Int) from C to A;
+      do Game(A, B, C);
+    } or {
+      Mov2CA(z : Boolean) from C to A;
+      do Game(A, B, C);
+    }
+  }
+}
