@@ -11,7 +11,7 @@ import java.util.Date
 
 implicit val timeout: Duration = Duration("60 seconds")
 
-   private def pa_2(
+/*    private def pa_2(
       x_2: Mov1CA|Mov2CA
    ):Pa_2[x_2.type] =
       x_2 match {
@@ -97,7 +97,28 @@ implicit val timeout: Duration = Duration("60 seconds")
             }
          }
       }
-   }
+   } */
 
+
+def pa(c1 : InChannel[OutChannel[Msg]]) : Pa[c1.type] = {
+   println("Pa: receiving c2 from pb.")
+   receive(c1) { (c2 : OutChannel[Msg]) =>
+      println("Pa: sending msg on c2.")
+      send(c2, Msg())
+   }
+}
+
+def pb(c1 : OutChannel[OutChannel[Msg]], c2 : OutChannel[Msg]) : Pb[c1.type, c2.type] = {
+   println("Pb: sending c2 on c1.")
+   send(c1, c2)
+}
+
+def pc(c2 : InChannel[Msg]) : Pc[c2.type] = {
+   println("Pc: receiving msg on c2.")
+   receive(c2) { (x : Msg) =>
+      println("Pc: received msg on c2.")
+      nil
+   }
+}
 
 

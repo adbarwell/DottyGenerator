@@ -17,19 +17,21 @@ case class Mov1AB(y : Int)
 //                     c7 : OutChannel[Mov2AB|Mov1AB],
 //                     c1 : OutChannel[Mov2AC|Mov1AC],
 //                     c3 : InChannel[Mov1CA|Mov2CA])
-case class SessionB[C4 <: OutChannel[InfoBC],
-                    C6 <: InChannel[InfoAB],
-                    C7 <: InChannel[Mov2AB|Mov1AB]] (c4 : C4, c6 : C6, c7 : C7)
+// case class SessionB[C4 <: OutChannel[InfoBC],
+//                     C6 <: InChannel[InfoAB],
+//                     C7 <: InChannel[Mov2AB|Mov1AB]] (c4 : C4, c6 : C6, c7 : C7)
 // case class SessionC(c4 : InChannel[InfoBC],
 //                     c2 : OutChannel[InfoCA],
 //                     c1 : InChannel[Mov2AC|Mov1AC],
 //                     c3 : OutChannel[Mov1CA|Mov2CA])
 
 // case class PlayA(sa : SessionA)
-case class PlayB[C4 <: OutChannel[InfoBC],
-                 C6 <: InChannel[InfoAB],
-                 C7 <: InChannel[Mov2AB|Mov1AB]](sb : SessionB[C4,C6,C7])
+// case class PlayB[C4 <: OutChannel[InfoBC],
+//                  C6 <: InChannel[InfoAB],
+//                  C7 <: InChannel[Mov2AB|Mov1AB]](sb : SessionB[C4,C6,C7])
 // case class PlayC(sc : SessionC)
 
-case class PlayA(x : String)
-case class PlayC(x : String)
+case class Msg()
+// case class PlayA(c : OutChannel[Msg])
+
+// case class PlayC(x : String)
