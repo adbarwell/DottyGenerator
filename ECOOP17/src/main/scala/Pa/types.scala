@@ -34,8 +34,4 @@ type Pa[C1 <: InChannel[OutChannel[Msg]]] =
   In[C1, OutChannel[Msg], (c : OutChannel[Msg]) =>
     Out[c.type, Msg]]
 
-type Pb[C1 <: OutChannel[OutChannel[Msg]], C2 <: OutChannel[Msg]] = Out[C1, C2]
-
-type Pc[C2 <: InChannel[Msg]] = In[C2, Msg, (x : Msg) => PNil]
-
 
