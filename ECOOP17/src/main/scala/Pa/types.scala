@@ -32,6 +32,10 @@ C_Pa_Pc_3 <: OutChannel[Mov2AC]] =
 
 type Pa[C1 <: InChannel[OutChannel[Msg]]] =
   In[C1, OutChannel[Msg], (c : OutChannel[Msg]) =>
-    Out[c.type, Msg]]
+    Rec[RecX, Out[c.type, Msg] >>: Loop[RecX]]]
 
+type Pb[C1 <: OutChannel[OutChannel[Msg]], C2 <: OutChannel[Msg]] =
+  Out[C1, C2]
 
+type Pc[C2 <: InChannel[Msg]] =
+  Rec[RecY, In[C2, Msg, (x : Msg) => Loop[RecY]]]

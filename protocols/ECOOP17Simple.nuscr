@@ -1,0 +1,17 @@
+
+global protocol Init(role Q, role Pa, role Pb, role Pc) {
+  PlayA(sa : string) from Q to Pa;
+  PlayB(sb : string) from Q to Pb;
+  PlayC(sc : string) from Q to Pc;
+  do Game(Pa, Pb, Pc);
+}
+
+global protocol Game(role A, role B, role C) {
+  InfoBC(x : string) from B to C;
+  InfoCA(x : string) from C to A;
+  InfoAB(x : string) from A to B;
+  MovAB(y : Int) from A to B;
+  MovAC(y : Int) from A to C;
+  MovCA(y : Int) from C to A;
+  do Game(A, B, C);
+}

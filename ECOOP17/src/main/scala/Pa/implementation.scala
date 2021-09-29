@@ -103,8 +103,11 @@ implicit val timeout: Duration = Duration("60 seconds")
 def pa(c1 : InChannel[OutChannel[Msg]]) : Pa[c1.type] = {
    println("Pa: receiving c2 from pb.")
    receive(c1) { (c2 : OutChannel[Msg]) =>
-      println("Pa: sending msg on c2.")
-      send(c2, Msg())
+      rec(RecX) {
+         println("Pa: sending msg on c2.")
+         send(c2, Msg()) >> loop(RecX)
+      }
+      
    }
 }
 
@@ -115,9 +118,11 @@ def pb(c1 : OutChannel[OutChannel[Msg]], c2 : OutChannel[Msg]) : Pb[c1.type, c2.
 
 def pc(c2 : InChannel[Msg]) : Pc[c2.type] = {
    println("Pc: receiving msg on c2.")
-   receive(c2) { (x : Msg) =>
-      println("Pc: received msg on c2.")
-      nil
+   rec(RecY) {
+      receive(c2) { (x : Msg) =>
+         println("Pc: received msg on c2.")
+         loop(RecY)
+      }
    }
 }
 
